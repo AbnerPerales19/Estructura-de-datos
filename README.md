@@ -1,7 +1,7 @@
 <h1>Estructuras de datos</h1>
 <b>Alumno: </b>Perales Niebla Abner Jesus
 <ul>
-  <li b href="https://github.com/AbnerPerales19/Estructura-de-datos/blob/master/Investigaciones/Clasificaci%C3%B3n%20de%20estructura%20de%20datos.pdf">ed-tarea1: </b> <i> Clasificacion de las estructuras de datos</i>
+  <li b>ed-tarea1: </b> <i> Clasificacion de las estructuras de datos</i>
   <li b>ed-tarea2: </b> <i> Tipos de datos abstractos</i>
   <li b>ed-tarea3: </b> <i> Ejemplos de dato abstracto</i>
   <li b>ed-tarea4: </b> <i> Manejo de memoria estatica y dinamica</i>
