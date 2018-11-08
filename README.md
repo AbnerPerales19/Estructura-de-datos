@@ -16,6 +16,9 @@
   <li b>tarea13: </b> <i> Listas enlazadas circulares</i>
   <li b>tarea14: </b> <i> Listas dobles enlazadas</i>
   <li b>tarea15: </b> <i> Arboles binarios</i>
+  <li b>tarea16: </b> <i> Arboles balanceados</i>
+  <li b>tarea17: </b> <i> Métodos de ordenamiento interno</i>
+  <li b>tarea18: </b> <i> Métodos de ordenamiento externo</i>
 </ul>
 
 <ul>
