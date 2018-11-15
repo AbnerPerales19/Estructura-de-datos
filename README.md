@@ -41,21 +41,21 @@
   <li b>Programa 17: </b> <i> Listas Enlazadas: push</i>
   <li b>Programa 18: </b> <i> Listas Enlazadas: peek</i>
   <li b>Programa 19: </b> <i> Listas Enlazadas: pop</i>
-  <li b>Programa 17: </b> <i> Listas Enlazadas circulares: push</i>
-  <li b>Programa 19: </b> <i> Listas Enlazadas circulares: peek</i>
-  <li b>Programa 20: </b> <i> Listas Enlazadas circulares: pop</i>
-  <li b>Programa 21: </b> <i> Listas doblemente Enlazadas: push</i>
-  <li b>Programa 22: </b> <i> Listas doblemente Enlazadas: peek</i>
-  <li b>Programa 23: </b> <i> Listas doblemente Enlazadas: pop</i>
-  <li b>Programa 24: </b> <i> Arboles binarios: push</i>
-  <li b>Programa 25: </b> <i> Arboles binarios: inorden</i>
-  <li b>Programa 26: </b> <i> Arboles binarios: preorden</i>
-  <li b>Programa 27: </b> <i> Arboles binarios: postorden</i>
-  <li b>Programa 28: </b> <i> Arboles balanceados: push, inorden, preorden, postorden</i>
-  <li b>Programa 29: </b> <i> Métodos de ordenamiento interno: burbuja</i>
-  <li b>Programa 30: </b> <i> Métodos de ordenamiento interno: quicksort</i>
-  <li b>Programa 31: </b> <i> Métodos de ordenamiento interno: shellsort</i>
-  <li b>Programa 32: </b> <i> Métodos de ordenamiento externo: mezcla directa</i>
+  <li b>Programa 20: </b> <i> Listas Enlazadas circulares: push</i>
+  <li b>Programa 21: </b> <i> Listas Enlazadas circulares: peek</i>
+  <li b>Programa 22: </b> <i> Listas Enlazadas circulares: pop</i>
+  <li b>Programa 23: </b> <i> Listas doblemente Enlazadas: push</i>
+  <li b>Programa 24: </b> <i> Listas doblemente Enlazadas: peek</i>
+  <li b>Programa 25: </b> <i> Listas doblemente Enlazadas: pop</i>
+  <li b>Programa 26: </b> <i> Arboles binarios: push</i>
+  <li b>Programa 27: </b> <i> Arboles binarios: inorden</i>
+  <li b>Programa 28: </b> <i> Arboles binarios: preorden</i>
+  <li b>Programa 29: </b> <i> Arboles binarios: postorden</i>
+  <li b>Programa 30: </b> <i> Arboles balanceados: push, inorden, preorden, postorden</i>
+  <li b>Programa 31: </b> <i> Métodos de ordenamiento interno: burbuja</i>
+  <li b>Programa 32: </b> <i> Métodos de ordenamiento interno: quicksort</i>
+  <li b>Programa 33: </b> <i> Métodos de ordenamiento interno: shellsort</i>
+  <li b>Programa 34: </b> <i> Métodos de ordenamiento externo: mezcla directa</i>
 </ul>
 
 <ul>
