@@ -60,5 +60,6 @@
 </ul>
 
 <ul>
-  <li b>examen2: </b> <i> Examen practico unidad 2</i>
+  <li b>Examen 2: </b> <i> Examen practico unidad 2</i>
+  <li b>Examen 3: </b> <i> Examen practico unidad 3</i>
 </ul>
