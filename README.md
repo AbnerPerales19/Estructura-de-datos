@@ -19,6 +19,7 @@
   <li b>Investigacion 16: </b> <i> Arboles balanceados</i>
   <li b>Investigacion 17: </b> <i> Métodos de ordenamiento interno</i>
   <li b>Investigacion 18: </b> <i> Métodos de ordenamiento externo</i>
+  <li b>Investigacion 19: </b> <i> Métodos de busqueda</i>
 </ul>
 
 <ul>
