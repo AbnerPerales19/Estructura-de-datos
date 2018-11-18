@@ -63,3 +63,7 @@
   <li b>Examen 2: </b> <i> Examen practico unidad 2</i>
   <li b>Examen 3: </b> <i> Examen practico unidad 3</i>
 </ul>
+
+<ul>
+  <li b>Programa final: </b> <i> Programa, metodos de ordenamiento y de busqueda</i>
+</ul>
