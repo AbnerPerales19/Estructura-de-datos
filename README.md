@@ -58,7 +58,7 @@
   <li b>Programa 33: </b> <i> Métodos de ordenamiento interno: shellsort</i>
   <li b>Programa 34: </b> <i> Métodos de ordenamiento externo: mezcla directa</i>
   <li b>Programa 35: </b> <i> Métodos de búsqueda: secuencial</i>
-  <li b>Programa 35: </b> <i> Métodos de búsqueda: binaria</i>
+  <li b>Programa 36: </b> <i> Métodos de búsqueda: binaria</i>
 </ul>
 
 <ul>
