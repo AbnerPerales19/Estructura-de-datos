@@ -67,5 +67,5 @@
 </ul>
 
 <ul>
-  <li b>Programa final: </b> <i> Programa, metodos de ordenamiento y de busqueda</i>
+  <li b>Programa final: </b> <i> Programa, metodos de ordenamiento</i>
 </ul>
